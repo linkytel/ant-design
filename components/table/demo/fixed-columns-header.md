@@ -66,7 +66,7 @@ const data = [];
 for (let i = 0; i < 100; i++) {
   data.push({
     key: i,
-    name: `Edrward ${i}`,
+    name: `EdrwardEdrwardEdrwardEdrwardEdrwardEdrward ${i}`,
     age: 32,
     address: `London Park no. ${i}`,
   });
